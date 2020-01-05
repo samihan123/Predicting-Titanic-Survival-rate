@@ -16,7 +16,6 @@ In practise following are the steps we take
 
 We would use MeanShift library from sklearn.
 We would be using titanic dataset from kaggle.
-https://www.kaggle.com/c/titanic/download/GQf0y8ebHO0C4JXscPPp%2Fversions%2FXkNkvXwqPPVG0Qt3MtQT%2Ffiles%2Ftrain.csv
 
 
 ## Things we did for pre processing our code
